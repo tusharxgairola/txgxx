@@ -69,13 +69,8 @@
   <img src="https://profile-counter.glitch.me/tusharxgairola/count.svg?"  />
 </div>
 
-<div align="center">
-  <h2>🐍🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tusharxgairola/tusharxgairola/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+
+![snake gif](https://github.com/tusharxgairola/tusharxgairola/blob/output/github-snake-dark.svg)
 
 <hr/>
 
